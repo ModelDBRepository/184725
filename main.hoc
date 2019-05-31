@@ -1,0 +1,5 @@
+load_file("nrngui.hoc")
+load_file("layerV.hoc")
+objref cell
+cell=new celltemplate(0,0)
+load_file("main.ses")
